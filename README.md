@@ -17,3 +17,9 @@ Boas práticas
 -Cobertura de Código: A cobertura de código ajuda a identificar áreas do código que não estão sendo testadas adequadamente, permitindo que os desenvolvedores priorizem esforços para melhorar a qualidade do teste.
 
 -Automação dos Testes: Isso garante que os testes sejam executados regularmente e de forma consistente, ajudando a identificar regressões e problemas de forma rápida e eficiente.
+
+Refs:
+
+https://learn.microsoft.com/pt-br/dotnet/core/testing/unit-testing-best-practices
+
+
