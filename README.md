@@ -1,9 +1,9 @@
 # ProjectTest-XUnit
 Project sample for test with xunit
 
-Contains 
-X-Unit
-Stryker for coverage
+Contains: 
+X-Unit,
+Stryker for coverage,
 Bogus for fake object
 
 Boas práticas
